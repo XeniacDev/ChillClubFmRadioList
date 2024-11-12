@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "data": [
     {
       "category": "Study Chill",
@@ -20,7 +20,7 @@
     {
       "category": "Synthwave",
       "tags": [
-        "synthwave",
+        "synthwave"
       ],
       "title": "ChillSynth FM - lofi synthwave radio for retro dreaming",
       "id": "UedTcufyrHc",
